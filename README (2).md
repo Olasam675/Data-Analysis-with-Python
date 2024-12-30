@@ -11,9 +11,9 @@
 *Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
 *Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
-(https://github.com/Olasam675/Data-Analysis-with-Python/blob/main/Instagram%20Clone%20Data%20Analysis%20Dashboard.png)
+
+![Instagram Clone Dashboard](https://github.com/Olasam675/Data-Analysis-with-Python/blob/main/Instagram%20Clone%20Data%20Analysis%20Dashboard.png)
 
 - [x] **Hadoop (Hive)** - 
   - NYC Yellow Taxi Records: Data Analysis <br />
