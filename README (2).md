@@ -13,7 +13,7 @@
 
 ![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
 
-
+(https://github.com/Olasam675/Data-Analysis-with-Python/blob/main/Instagram%20Clone%20Data%20Analysis%20Dashboard.png)
 
 - [x] **Hadoop (Hive)** - 
   - NYC Yellow Taxi Records: Data Analysis <br />
